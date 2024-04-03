@@ -22,7 +22,7 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_7_URL: 'https://github.com/tangly1024/NotionNext',
   
   // 首页大图英雄板块
-  LANDING_HERO_TITLE_1: 'NotionNext',
+  LANDING_HERO_TITLE_1: 'Lovely Pet',
   LANDING_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
   LANDING_HERO_BUTTON_1_TEXT: '开始体验',
   LANDING_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
